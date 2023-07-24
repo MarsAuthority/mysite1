@@ -1,5 +1,5 @@
 baseURL = "https://hermes.haowu365.com/"
-title = "Compose Docs"
+title = "Hermès - 爱马仕限时店(小程序)订阅服务"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
 # comment out line below, and uncomment the line after it if you prefer to load the theme normally
